@@ -1,0 +1,10 @@
+{
+  "name": "Maitri Maribasayyanavar — Automation & Robotics Engineer",
+  "short_name": "Maitri M.",
+  "description": "Portfolio of Maitri Maribasayyanavar: ROS 2, computer vision and embedded systems.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0b1220",
+  "theme_color": "#0b1220",
+  "icons": [{ "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml" }]
+}
